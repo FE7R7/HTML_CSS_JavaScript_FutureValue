@@ -1,4 +1,4 @@
-# HTML_CSS_JavaScript_IncomeTaxCalculator
+# HTML_CSS_JavaScript_FutureValue
 Application to calculate the future value resulting after the incidence of an annual interest rate on an initial investment value, both pre-informed by the user, who will also inform the number of years that the amount will remain invested. 
 
 When necessary, it prints an error message in red for each data mentioned above, which must be filled in by the user if the information is not within the pre-established range for each value.
